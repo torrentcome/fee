@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">fee</string>
+
+    <string name="scan">Scan</string>
+    <string name="connection">Connection</string>
+    <string name="button_connect">Connect</string>
+    <string name="battery_state">Battery state</string>
+    <string name="voltage_state">Voltage state</string>
+    <string name="force_battery_data">Force battery data</string>
+    <string name="version_state">Version state</string>
+    <string name="get_version">Get version</string>
+    <string name="calibre_state">Calibre state</string>
+    <string name="start_calibre">Start calibre</string>
+    <string name="stride_state">Stride state</string>
+    <string name="start_stride_event">Start stride event</string>
+    <string name="error">error</string>
+</resources>
