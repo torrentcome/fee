@@ -2,7 +2,7 @@
 
 ![](/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
-A sample android app that shows how to use ViewModels, LiveData with RxJava2 & Hilt, in Kotlin by "Clean Architecture".
+A sample android app that shows how to use [RxBle](https://github.com/Polidea/RxAndroidBle) :rocket:, ViewModels, LiveData with RxJava2 & Hilt, in Kotlin by "Clean Architecture".
 
 
 ### Implemented by
